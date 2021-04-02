@@ -1,1 +1,1 @@
-# docker-ubuntu-unoconv
+# Base ubuntu image with `unoconv` package installed
